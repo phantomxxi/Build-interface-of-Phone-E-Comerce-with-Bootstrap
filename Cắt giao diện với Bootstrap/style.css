@@ -1,0 +1,56 @@
+body {
+    font-family: Arial;
+    font-size: 13px;
+    color: #333333;
+}
+
+#header {
+    background: #333333;
+}
+
+#search,
+#cart,
+#logo {
+    height: 60px;
+}
+
+#cart {
+    text-align: right;
+}
+
+#search,
+#cart {
+    padding-top: 15px;
+}
+
+#search input {
+    border-radius: 3px 0 0 3px;
+    width: 280px;
+    height: 30px;
+    font-size: 13px;
+}
+
+#search button {
+    height: 30px;
+    border-radius: 0 3px 3px 0;
+    width: 80px;
+    color: #fff;
+    background-color: #ff3333;
+    font-size: 13px;
+}
+
+#cart a {
+    color: #fff;
+    margin-right: 10px;
+}
+
+#cart span {
+    color: #fff;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #ff3333;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+}
