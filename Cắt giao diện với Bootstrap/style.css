@@ -100,3 +100,26 @@ body {
 .product-list {
     text-align: center;
 }
+
+#footer-top {
+    padding-top: 20px;
+}
+
+#address h3,
+#services h3,
+#hotline h3 {
+    font-size: 18px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 15px;
+}
+
+#footer-bottom {
+    background: #333;
+    height: 40px;
+    color: #9999cc;
+}
+
+#footer-bottom p {
+    line-height: 40px;
+    margin: 0;
+}
